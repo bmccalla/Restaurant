@@ -1,0 +1,155 @@
+/*** sectioning elements ***/
+
+body {
+
+font-family: 'Quicksand', sans-serif;
+ font-size: 20px;
+ text-align: center;
+
+}
+
+header {
+   background-color: #bbffa0;
+ }
+
+
+p{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+.dark {
+    background-color: #000;
+    color: #fff;
+}
+
+
+/**** content styles ***/
+
+h1 {
+  margin: 0;
+   font-family: 'Finger Paint', cursive;
+  font-size: 60px;
+  text-align: center;
+   
+}
+
+h2 {
+font-family: 'Finger Paint', cursive;
+  font-size: 35px;
+  text-align: center;
+  color: #ff9e0c;
+
+
+}
+
+footer h2 {
+  color: #777;
+  font-size: 16px;
+}
+
+h3 {
+
+}
+
+h4 {
+  font-size: 60px;
+  border: 1px solid black;
+ outline-color: red;
+ outline-style: double;
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+
+}
+
+table {
+  border-collapse: collapse;
+  width:100%;
+  align-content: center;
+}
+
+
+/*** image styles ***/
+img {
+ max-width: 100%;
+}
+
+img.social {
+  margin: 6px;
+}
+
+img.center {
+ float: center;
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+
+/*** link styles ***/
+
+a:link {
+  color: #0087ff;
+
+}
+
+a:visited {
+  color:#ffa100;
+
+}
+
+a:hover {
+  color: #0087ff
+
+
+}
+
+a:active {
+
+}
